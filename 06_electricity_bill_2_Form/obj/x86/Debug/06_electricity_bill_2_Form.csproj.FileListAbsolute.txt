@@ -1,0 +1,9 @@
+C:\Users\Student\Desktop\0019_Aashik\C#\Form_Applications\06_electricity_bill_2_Form\06_electricity_bill_2_Form\bin\Debug\06_electricity_bill_2_Form.exe
+C:\Users\Student\Desktop\0019_Aashik\C#\Form_Applications\06_electricity_bill_2_Form\06_electricity_bill_2_Form\bin\Debug\06_electricity_bill_2_Form.pdb
+C:\Users\Student\Desktop\0019_Aashik\C#\Form_Applications\06_electricity_bill_2_Form\06_electricity_bill_2_Form\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Student\Desktop\0019_Aashik\C#\Form_Applications\06_electricity_bill_2_Form\06_electricity_bill_2_Form\obj\x86\Debug\_06_electricity_bill_2_Form.Form1.resources
+C:\Users\Student\Desktop\0019_Aashik\C#\Form_Applications\06_electricity_bill_2_Form\06_electricity_bill_2_Form\obj\x86\Debug\_06_electricity_bill_2_Form.Properties.Resources.resources
+C:\Users\Student\Desktop\0019_Aashik\C#\Form_Applications\06_electricity_bill_2_Form\06_electricity_bill_2_Form\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Student\Desktop\0019_Aashik\C#\Form_Applications\06_electricity_bill_2_Form\06_electricity_bill_2_Form\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Student\Desktop\0019_Aashik\C#\Form_Applications\06_electricity_bill_2_Form\06_electricity_bill_2_Form\obj\x86\Debug\06_electricity_bill_2_Form.exe
+C:\Users\Student\Desktop\0019_Aashik\C#\Form_Applications\06_electricity_bill_2_Form\06_electricity_bill_2_Form\obj\x86\Debug\06_electricity_bill_2_Form.pdb
